@@ -1,5 +1,4 @@
 ## 提示
-
 > 目前 layer 组件已完全集成到 Layui 中，layer 组件已不做单独维护。因此， 建议直接使用 layui 中 layer。
 - layer 文档：https://layui.dev/docs/layer/
 
